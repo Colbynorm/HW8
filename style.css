@@ -1,0 +1,23 @@
+.img-thumbnail {
+    width: 400px;
+    height: 300px;
+}
+
+#myBio {
+    text-align: center;
+    font-family: cursive;
+    font-weight: bold;
+    background-color: lightgray;
+}
+
+footer {
+    background-color: darkgray;
+    font: white;
+    text-align: center;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+body {
+    background-image: url(images/pexels-photo-220182.jpeg);
+}
