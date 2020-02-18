@@ -3,11 +3,13 @@
     height: 300px;
 }
 
-#myBio {
+#myBio, #projects {
     text-align: center;
     font-family: cursive;
     font-weight: bold;
     background-color: lightgray;
+    width: 100%;
+    padding: 10px;
 }
 
 footer {
