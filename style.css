@@ -24,4 +24,19 @@ footer {
 
 body {
     background-image: url(images/wood-texture-background-pine-82256.jpg);
+    margin-bottom: 56px;
 }
+
+.col-md-4 {
+    box-sizing: border-box;
+    /* padding: 0px; */
+}
+
+/* use this if you remove container */
+/* .row {
+    margin: 0px;
+} */
+
+/* .container {
+    change margins here if you want
+} */
